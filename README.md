@@ -19,6 +19,7 @@
 | Trần Doãn Thắng        | 23020438              |
 
 Vì dự án dùng Google Colab nên mọi code chi tiết đều ở trên Drive: [https://drive.google.com/drive/folders/1fMnFoO3o4NakaGuCvMUDYcD6Nnf7TR53?usp=sharing]
+---
 Nếu có thắc mắc, vui lòng liên hệ qua mail: [nnam.hp2005@gmail.com]
 ---
 
